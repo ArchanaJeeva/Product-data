@@ -1,1 +1,1 @@
-# Product-data
+# product-data-watsonx
